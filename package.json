@@ -1,0 +1,14 @@
+{
+  "name": "swagger-to-graphql-example",
+  "version": "1.0.0",
+  "author": "Victor Boutte'",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "swagger-to-graphql": "^1.2.7"
+  }
+}
